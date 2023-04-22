@@ -1,0 +1,47 @@
+encontrododesastre
+Historia: Ingrid trabalhava em uma biblioteca quando um certo dia,
+Luccas um cientista que pesquisava uma forma de acabar com
+o aquecimento global, que estava avançando drasticamente nos
+ultimos anos, esbarra 'sem querer' em Ingrid
+Luccas se encanta com a graça de Ingrid e seu livro misterioso em mãos e se desculpa.
+Ingrid decide perguntar o que ele procura ou se despedir?
+Escolhas: perguntar:continua despedir:missao
+Personagem: Protagonista
+Alteracao: -20
+
+continua
+Historia: Luccas então se apresenta e explica sobre sua pesquisa,
+tentando parecer 'interessante' e pergunta sobre o livro em suas mãos,
+Ingrid explica que ela estava organizando os livros e
+decide continuar conversando com o rapaz até que seu celular toca
+Luccas atende ou decide ignorar a ligação?
+Escolhas: atende:ligacao ignorar:casamento
+Personagem: Antagonista
+Alteracao: -10
+
+ligacao
+Historia: Luccas então decide atender a ligação e se despede de
+Ingrid, A ligação em si não era relevante porém,
+Ingrid termina de organizar os livros, e
+Luccas acaba encontrando o livro em uma estante e que
+continha o sucesso de sua pesquisa.
+Escolhas: 0
+Personagem: Protagonista
+Alteracao: 20
+
+casamento
+Historia: Luccas  ignora a ligação e Ingrid
+começa a se interessar por ele mais e mais, e terminam juntos.
+No fim... Luccas não termina seu projeto e o mundo
+sofre com o Aquecimento global até seu fim em 2046.
+Escolhas: 0
+Personagem: Protagonista
+Alteracao: -80
+
+missao
+Historia: Ingrid estão vai embora e Luccas continua pesquisando
+e eventualmente ele encontra uma pesquisa russa
+misteriosa e acaba com o aquecimento global.
+Escolhas: 0
+Personagem: Protagonista
+Alteracao: 20

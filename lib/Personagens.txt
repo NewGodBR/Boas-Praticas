@@ -1,0 +1,7 @@
+Protagonista
+Nome: Luccas
+Atencao: 100
+
+Antagonista
+Nome: Ingrid
+Atencao: 100
